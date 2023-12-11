@@ -1,1 +1,1 @@
-# Emnist
+# emnist-digits-train
